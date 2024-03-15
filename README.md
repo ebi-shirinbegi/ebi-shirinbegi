@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ebrahim Sharifi.
 - 👀 I’m interested in Natural Language Processing.
-- 🌱 I’m currently learning Software Engineering as a graduate student at China West Normal University.
-- 💞️ I’m looking to collaborate on web development projects.
+- 🌱 I’m studying Software Engineering as a master's student at China West Normal University.
+- 💞️ I’m looking to collaborate on web development and NLP projects.
 - 📫 How to reach me? You can find me at Twitter @Begiebi or by email: Sharifi.ebrahim@outlook.com
 
 <!---
