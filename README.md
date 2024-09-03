@@ -2,4 +2,5 @@
 - 👀 I’m interested in Natural Language Processing and working with Large Language Models (LLMs).
 - 🎓 I’ve graduated with a master's degree in Software Engineering from China West Normal University.
 - 💞️ I’m looking to collaborate on LLM, AI, and NLP projects.
-- 📫 How to reach me? You can find me on [Hugging Face](https://huggingface.co/EbrahimSharifi), Twitter @Begiebi, or by email: Sharifi.ebrahim@outlook.com
+- 📫 How to reach me? You can find me on [Hugging Face](https://huggingface.co/EbrahimSharifi), X (formerly Twitter) [@BegiEbi](https://x.com/BegiEbi), or by email: Sharifi.ebrahim@outlook.com.
+- ❌ My LinkedIn account has been closed.
